@@ -10,6 +10,7 @@ function App() {
         </div>
         <div className="col-md-6">
           <h2>Blog List</h2>
+          <p>Checking</p>
         </div>
       </div>
     </div>
